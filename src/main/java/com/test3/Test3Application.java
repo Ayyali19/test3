@@ -10,7 +10,6 @@ public class Test3Application {
 		SpringApplication.run(Test3Application.class, args);
                  float y=12.0f;
 
-		int x=90;
-	}
+			}
 
 }
