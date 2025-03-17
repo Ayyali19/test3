@@ -10,6 +10,7 @@ int x=100;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test3Application.class, args);
+              float y=10.0f;
 	}
 
 }
