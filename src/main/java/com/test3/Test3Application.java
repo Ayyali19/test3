@@ -6,13 +6,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test3Application {
 
+int x=100;
+
 	public static void main(String[] args) {
                 Stiring name="mike";
 		int x=100;
 		int y=200;
 		double z=10.3;
 		boolean isPresent=false;
-		float m=10.3f;
+		char x= 'a';
 		SpringApplication.run(Test5Application.class,args);
 	}
 }
