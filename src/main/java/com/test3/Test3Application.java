@@ -9,7 +9,12 @@ public class Test3Application {
 int x=100;
 
 	public static void main(String[] args) {
-		SpringApplication.run(Test3Application.class, args);
+                Stiring name="mike";
+		int x=100;
+		int y=200;
+		double z=10.3;
+		boolean isPresent=false;
+		char x= 'a';
+		SpringApplication.run(Test5Application.class,args);
 	}
-
 }
