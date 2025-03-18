@@ -8,13 +8,9 @@ public class Test3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test3Application.class, args);
+                     float = 20f;
 
-                 double s = 1000;
-                 int s= 200;
-
-                 float x=90.0f;
-                int x=90;
-
+                 
 		
 	}
 }
