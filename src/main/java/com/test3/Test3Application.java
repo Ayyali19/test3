@@ -6,9 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test3Application {
 
-	
 
-	public static void main(String[] args) {
-                float x= 30.23f
-	}
+	
+public static void main(String[] args) {
+               int x=100;
 }
