@@ -9,5 +9,5 @@ public class Test3Application {
 
 	
 public static void main(String[] args) {
-               int x=100;
+              boolean x=true;
 }
